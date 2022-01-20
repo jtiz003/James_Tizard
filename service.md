@@ -22,7 +22,7 @@ title: Academic Service
   </div>
 {% endfor %} -->
 <div class="mb-3">
-<h2 class="text-primary">Organizing Committee Memberships</h2>
+<h3 class="text-primary">Organizing Committee Memberships</h3>
 {% for item in site.data.service_oc %}
   <div style="padding-bottom: 10px"><b> {{ item.name}} </b><br>
   {% for entry in item.venues %}
@@ -31,7 +31,7 @@ title: Academic Service
   </div>
 {% endfor %}
 
-<h2 class="text-primary">Program Committee Memberships</h2>
+<h3 class="text-primary">Program Committee Memberships</h3>
 {% for item in site.data.service_pc %}
   <div style="padding-bottom: 10px"><b> {{ item.name}} </b><br>
   {% for entry in item.venues %}
@@ -40,7 +40,7 @@ title: Academic Service
   </div>
 {% endfor %}
 
-<h2 class="text-primary">Reviewing</h2>
+<h3 class="text-primary">Reviewing</h3>
 {% for item in site.data.service_reviewing %}
   <div style="padding-bottom: 0px">{{item.venue}}</div>
 {% endfor %}

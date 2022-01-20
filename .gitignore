@@ -2,4 +2,4 @@
 .jekyll-cache/
 Gemfile.lock
 _site/
-navbar.yml
+_data\navbar.yml

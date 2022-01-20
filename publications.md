@@ -14,7 +14,7 @@ title: Publications
 <div class="col-sm-6">    
 
 
-<div class="bg-primary text-white bg-info card ml-4 mr-4 mt-4">
+<div class="bg-primary text-white bg-info card ml-5 mr-5 mt-4">
     
   <iframe class="card-img-top"  height="315"
 src="https://www.youtube.com/embed/bUBfTSyIDX8">
