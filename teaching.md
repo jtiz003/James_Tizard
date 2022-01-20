@@ -2,9 +2,9 @@
 layout: default
 title: Teaching
 ---
-I teach Software Engineering at the University of Auckland. My courses cover topics mostly related to collaborative software development and software requirements engineering. Below is a list of courses that I have taught in my current and previous academic positions. <br>
+In 2022 I'll be taking on an exciting new challenge working as a teaching fellow at the University of Auckland. My teaching will focus on software requirements, and development methodologies.<br>
 
-<h2 class="text-primary">Courses Taught</h2>
+<h2 class="text-primary">Courses</h2>
 {% for item in site.data.teaching %}
   <div style="padding-bottom: 10px"> <b>{{item.name}}</b><br>
   <i>{{item.place}}</i><br>
