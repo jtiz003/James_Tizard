@@ -1,22 +1,22 @@
 - name: Home
-  # link: /James_Tizard/
-  link: /
+  link: /James_Tizard/
+  # link: /
 - name: Publications
-  # link: /James_Tizard/publications.html
-  link: /publications.html
+  link: /James_Tizard/publications.html
+  # link: /publications.html
 - name: Blog
-  # link: /James_Tizard/blog.html
-  link: /blog.html
+  link: /James_Tizard/blog.html
+  # link: /blog.html
 - name: Teaching
-  # link: /James_Tizard/teaching.html
-  link: /teaching.html
+  link: /James_Tizard/teaching.html
+  # link: /teaching.html
 - name: Academic Service
-  # link: /James_Tizard/service.html
-  link: /service.html
+  link: /James_Tizard/service.html
+  # link: /service.html
 - name: About
-  # link: /James_Tizard/about.html
-  link: /about.html
+  link: /James_Tizard/about.html
+  # link: /about.html
 - name: Contact
-  # link: /James_Tizard/contact.html
-  link: /contact.html
+  link: /James_Tizard/contact.html
+  # link: /contact.html
   
