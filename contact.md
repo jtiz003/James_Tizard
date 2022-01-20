@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 ---
-<h2 class="text-primary">I'd love to hear from you!</h2><br>
+<h3 class="text-primary">I'd love to hear from you!</h3><br>
 
 The best way to contact me is via email, which I frequently check.
 

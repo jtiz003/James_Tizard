@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 <!-- style="font-weight:bold" -->
-<h5 class="mb-3">Update coming soon!</h5>
+<h3 class="mb-3">Update coming soon!</h3>
 
 I'm a PhD candidate in Software Engineering at the University of Auckland. My current research focuses on crowd sourcing software requirements (CrowdRE), often leveraging machine learning and natural language processing techniques. A full list of my published work can be found under <a href="/publications" style="font-weight:bold">publications</a>. I'm also part of the Human Aspects of Software Engineering Lab (HASEL), check it out at <a href="https://hasel.auckland.ac.nz/" target="_blank" >https://hasel.auckland.ac.nz</a>.<br><br>
 
