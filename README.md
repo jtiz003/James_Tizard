@@ -1,4 +1,4 @@
-# kblincoe.github.io
+# Create a personal webpage
 
 This website is built using Jekyll. 
 Jekyll Scholar is used to create the publications list. 
