@@ -1,0 +1,40 @@
+.bibtex{
+    background: #F8F8F8;
+}
+
+pre{
+    font-family: 'Courier New', 'Courier', 'Lucida Sans Typewriter', 'Lucida Typewriter',monospace;
+}
+
+.noshow{
+    visibility: hidden;
+}
+
+.embed-responsive-210by297 {
+  padding-bottom: 141.42%;
+}
+
+.text-theme {
+    font-family: 'FreeMono';
+    color: rgb(31, 150, 144);
+
+}
+
+
+
+  .text_link {
+    color: rgb(102, 104, 226);
+    background-color: transparent;
+  }
+
+  .stretched-link::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    pointer-events: auto;
+    content: "";
+    background-color: rgba(0,0,0,0);
+}
