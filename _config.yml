@@ -35,3 +35,5 @@ scholar:
   bibtex_skip_fields: ['pdf', 'code', 'video', 'slides', 'ordering']
   
   query: "@*"
+
+theme: jekyll-theme-merlot
