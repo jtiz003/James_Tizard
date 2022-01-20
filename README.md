@@ -1,7 +1,7 @@
 # Create a personal webpage
 
 This website is built using Jekyll. 
-Jekyll Scholar is used to create the publications list. 
+Jekyll Scholar is used to create the publications list. rebuild
 
 # Want to create your own website?
 This code is released under an MIT license. Here are some tips on how to create your own academic website based on this code.
