@@ -21,7 +21,7 @@ title: Academic Service
   {% endfor %}
   </div>
 {% endfor %} -->
-<div class="mb-3">
+<div class="mb-4">
 <h3 class="text-primary">Organizing Committee Memberships</h3>
 {% for item in site.data.service_oc %}
   <div style="padding-bottom: 10px"><b> {{ item.name}} </b><br>
