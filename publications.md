@@ -7,7 +7,7 @@ title: Publications
 <div class="container-fluid">
   <div class="row">
     <div class="col-sm-6 ">
-      <div class="ml-5 mr-5">
+      <div class="ml-2 mr-4">
 {% bibliography %}
         </div>
 </div>
