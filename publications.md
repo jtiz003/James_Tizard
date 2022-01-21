@@ -11,10 +11,10 @@ title: Publications
 {% bibliography %}
         </div>
 </div>
-<div class="col-sm-6">    
+<div class="col-sm-6 ">    
 
 
-<div class="bg-primary text-white bg-info card ml-5 mr-5 mt-4">
+<div class="bg-primary text-white bg-info card ml-5 mr-5 mt-4 mb-3">
     
   <iframe class="card-img-top"  height="315"
 src="https://www.youtube.com/embed/bUBfTSyIDX8">
