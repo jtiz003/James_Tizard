@@ -5,6 +5,8 @@ title: Blog
 <div class="container-fluid">
 <div class="mb-4"> 
 For a more reader-friendly version of my research I've started a <a href="https://medium.com/@james-tizard" target="_blank" style="font-weight:bold">blog on Medium</a>.
+
+ <!-- <h3>Ready, Steady, Learn w/ James Tizard: November 17, 2020</h3><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="https://95bfm.com/sites/default/files/171120_Ready_Steady_Learn.mp3" type="audio/mpeg; length=55539102">Ready, Steady, Learn w/ James Tizard: November 17, 2020</a> <span class="meta"><span class="file--file-type">Ready, Steady, Learn w/ James Tizard: November 17, 2020</span>, <span class="file--file-size">52.97 MB</span></span></span><div class="field field-name-field-broadcast-date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-11-17T00:00:00+13:00">Tuesday, November 17, 2020</span></div><div class="field field-name-field-file-description"><p>University of Auckland, James Tizard, who is a PhD student in software engineering dials into the Breakfast Show this morning to teach up about apps, who uses them and who reviews them.&nbsp;</p></div><div class="field field-name-play-file has-margin-top-half"><audio id="bcast--23897" controls="controls" controlsList="nodownload" preload="metadata" src="https://95bfm.com/sites/default/files/171120_Ready_Steady_Learn.mp3">&nbsp;</audio></div><a href="/bcasts/" class="group-link field-group-link"><div class="field field-name-field-term-bcast"><div  class="ds-1col taxonomy-term vocabulary-bcast view-mode-term_image_teaser  clearfix"> -->
 </div>
 
 <h3>Latest Posts</h3>
