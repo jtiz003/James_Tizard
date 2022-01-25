@@ -5,7 +5,7 @@ title: Home
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-sm-5">
+    <div class="col-sm-5 mb-4">
       <img class="img-fluid" right="100" src="imgs\p7.jpg" alt="James Tizard" width="600" 
      ><br>
     </div>
