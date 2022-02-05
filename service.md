@@ -3,6 +3,9 @@ layout: default
 title: Academic Service
 ---
 
+<div class="row">
+
+<div class="mb-4 col-sm-5">
 
 <!-- <h2 class="text-primary">Journal Board Memberships</h2>
 {% for item in site.data.service_journals %}
@@ -44,5 +47,15 @@ title: Academic Service
 {% for item in site.data.service_reviewing %}
   <div style="padding-bottom: 0px">{{item.venue}}</div>
 {% endfor %}
+
+</div>
+</div>
+
+<div class="mb-4 ml-5 col-sm-6">
+ <img class="img-fluid" right="100" src="imgs\service image.PNG" alt="James Tizard" width="450px" 
+     >
+</div>
+
+
 
 </div>
