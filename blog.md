@@ -43,7 +43,7 @@ title: Blog
 
   <div class="col-lg-3 col-md-5 col-sm-4 mt-4 mb-5">  
     <div class="bg-primary text-white bg-info card">
-    <a href="https://95bfm.com/bcast/ready-steady-learn-w-james-tizard-november-17-2020" target="_blank"><img class="card-img-top" src="imgs\95bFM.png" alt="Card image cap" style="height:155px;"></a>
+    <a href="https://95bfm.com/bcast/ready-steady-learn-w-james-tizard-november-17-2020" target="_blank"><img class="card-img-top" src="https://95bfm.com/sites/default/files/171120_Ready_Steady_Learn.mp3" alt="Card image cap" style="height:155px;"></a>
   <div class="card-body">
   <div class="mb-2">
   BFM Interview - Ready, Steady, Learn
