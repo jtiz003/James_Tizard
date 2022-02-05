@@ -10,11 +10,11 @@ title: Blog
   <h3>Latest Posts</h3>
 
 
-  <div class="row">
+  <div class="row" >
   <div class="col-lg-3 col-md-5 col-sm-4 mt-4 mb-5">
     <div class="card bg-primary text-white bg-info" >
-    <img class="card-img-top" src="imgs\blog_image_1.png" alt="Card image cap">
-    <div class="card-body">
+    <img class="card-img-top" src="imgs\blog_image_1.png" style="height:175px;" alt="Card image cap">
+    <div class="card-body" style="height:108px;">
     <h6 class="card-title">Blog #1 </h6>
     <!-- <p class="card-text">Who actually writes reviews on the app store?</p> -->
     Who actually writes reviews on the app store?
@@ -43,8 +43,8 @@ title: Blog
 
   <div class="col-lg-3 col-md-5 col-sm-4 mt-4 mb-5">  
     <div class="bg-primary text-white bg-info card">
-    <a href="https://95bfm.com/bcast/ready-steady-learn-w-james-tizard-november-17-2020" target="_blank"><img class="card-img-top" src="imgs\95bFM.png" alt="Card image cap" style="height:155px;"></a>
-  <div class="card-body">
+    <a href="https://95bfm.com/bcast/ready-steady-learn-w-james-tizard-november-17-2020" target="_blank"><img class="card-img-top" src="imgs\95bFM.png" alt="Card image cap" style="height:175px;"></a>
+  <div class="card-body" style="height:108px;">
   <div class="mb-2">
   BFM Interview - Ready, Steady, Learn
   </div>
