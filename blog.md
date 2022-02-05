@@ -4,10 +4,11 @@ title: Blog
 ---
 <div class="container-fluid">
   <div class="mb-4"> 
+  <h3 class="text-primary">Blog</h3>
   For a more reader-friendly version of my research I've started a <a href="https://medium.com/@james-tizard" target="_blank" style="font-weight:bold">blog on Medium</a>.
   </div>
 
-  <h3>Latest Posts</h3>
+  <h5 class="text-primary">Latest Posts</h5>
 
 
   <div class="row" >

@@ -7,6 +7,7 @@ title: Publications
 <div class="container-fluid">
   <div class="row">
     <div class="col-sm-6 ">
+    <h3 class="text-primary ml-2 ">Publications</h3>
       <div class="ml-2 mr-4 mb-5">
       {% bibliography %}
       </div>
