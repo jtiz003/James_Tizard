@@ -6,7 +6,7 @@ title: Contact
 
 The best way to contact me is via email, which I frequently check.
 
-<span><i class="fa fa-envelope"></i><a href="mailto:jtiz003@aucklanduni.ac.nz" target="_blank"> jtiz003@aucklanduni.ac.nz</a></span><br><br>
+<span><i class="fa fa-envelope"></i><a href="james.tizard@auckland.ac.nz" target="_blank"> james.tizard@auckland.ac.nz</a></span><br><br>
 
 
 
