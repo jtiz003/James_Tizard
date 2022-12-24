@@ -1,8 +1,4 @@
 - course:
-  name: Advanced Software Engineering Development Methods (SOFTENG 701)
-  place: University of Auckland
-  years: 2022
-- course:
   name: Advanced Software Requirements Engineering (SOFTENG 754)
   place: University of Auckland
   years: 2022, 2023 
@@ -14,3 +10,7 @@
   name: Software Quality Assurance (SOFTENG 283)
   place: University of Auckland
   years: 2022, 2023
+- course:
+  name: Advanced Software Engineering Development Methods (SOFTENG 701)
+  place: University of Auckland
+  years: 2022
