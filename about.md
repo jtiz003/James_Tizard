@@ -15,15 +15,10 @@ title: About
 I'm also a part of a book club, with my brother and two cousins, which has been going strong for several years. Our first book (of six) for 2023 is a New Zealand historical fiction called <a href="https://www.goodreads.com/book/show/75564756-k-wai">"Kāwai: For Such a Time As This" by Monty Soutar</a>. 
     </div>
 
-  <div class="col-sm-6 ">    
-    <div class="bg-primary text-white bg-info card ml-5 mr-5 mt-4 mb-3">
-    
-  <iframe class="card-img-top"  height="315"
-  src="imgs\profile_rugby.jpg">
-  </iframe>
-
+<div class="card" style="width: 18rem;">
+  <img src="imgs\profile_rugby.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-  <h6 class="card-title">Rugby World Cup 2019 - Tokyo </h6>
+    <p class="card-text">Rugby world cup 2019, Tokyo</p>
   </div>
 </div>
 
