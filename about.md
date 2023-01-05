@@ -5,7 +5,14 @@ title: About
 <!-- style="font-weight:bold" -->
 <h3 class="mb-3">About James</h3>
 
-
+ <style>
+ .carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+     display: block;
+     max-width: 100%;
+     height: 400px !important;
+ }
+ </style>
 
 <div class="container-fluid">
   <div class="row mb-4">
