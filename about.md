@@ -19,12 +19,11 @@ I'm also a part of a book club, with my brother and two cousins, which has been 
     <div class="bg-primary text-white bg-info card ml-5 mr-5 mt-4 mb-3">
     
   <iframe class="card-img-top"  height="315"
-  src="https://www.youtube.com/embed/bUBfTSyIDX8">
+  src="imgs\profile_rugby.jpg">
   </iframe>
 
   <div class="card-body">
-  <h6 class="card-title">CrowdRE'21 presentation </h6>
-     Voice of the users: A study of software feedback differences between Germany and China  
+  <h6 class="card-title">Rugby World Cup 2019 - Tokyo </h6>
   </div>
 </div>
 
