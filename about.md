@@ -26,7 +26,7 @@ I'm also a part of a book club, with my brother and two cousins, which has been 
     <div class="container">
       <img class="d-block w-100" src="imgs\profile_lecture.jpg" style="height:400px !important;" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-    <h3>University of Auckland - 2022</h3>
+    <h5 style="background-color:white;">University of Auckland - 2022</h5>
   </div>
     </div>
     </div>
@@ -34,7 +34,7 @@ I'm also a part of a book club, with my brother and two cousins, which has been 
     <div class="container">
       <img class="d-block w-100" src="imgs\profile_hiking.jpg" style="height:400px !important;" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-    <h3>Family hike on the Kepler track</h3>
+    <h5 style="background-color:white;">Family hike on the Kepler track, Fiordland, NZ</h5>
   </div>
     </div>
     </div>
@@ -42,7 +42,7 @@ I'm also a part of a book club, with my brother and two cousins, which has been 
     <div class="container">
       <img class="d-block w-100" src="imgs\profile_auckland.jpg" style="height:400px !important;" alt="Third slide">
        <div class="carousel-caption d-none d-md-block">
-    <h3>Auckland city harbour</h3>
+    <h5 style="background-color:white;">Auckland city harbour</h5>
   </div>
     </div>
   </div>
