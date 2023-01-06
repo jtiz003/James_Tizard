@@ -46,18 +46,10 @@ I'm also a part of a book club, with my brother and two cousins, which has been 
   </div> -->
     </div>
   </div>
-  <!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div> -->
+
 
   </div>
 </div>
 </div>
-
+</div>
 <!-- style="width:400px !important;" -->
