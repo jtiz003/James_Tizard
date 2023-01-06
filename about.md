@@ -13,7 +13,7 @@ title: About
 
     I live with my partner Rong in Auckland, New Zealand. Beyond my work, I'm a keen chess player, and am a member of the <a href="https://papatoetoechessclub.org.nz/"> <u> Papatoetoe chess club </u> </a>. In 2023 I've also set myself the goal of reading 30 books, you can follow my progress on <a href="https://www.goodreads.com/user_challenges/40883878"> <u>goodreads</u></a>! As I'm writting this in January I've completed 1 of 30. So, some way to go!
 
-I'm also a part of a book club, with my brother and two cousins, which has been going strong for several years. Our first book (of six) for 2023 is a New Zealand historical fiction called <a href="https://www.goodreads.com/book/show/75564756-k-wai"><u>"Kāwai: For Such a Time As This" </u></a> by Monty Soutar. 
+I'm also a part of a book club, with my brother and two cousins, which has been going strong for several years. Our first book (of six) for 2023 is a New Zealand historical fiction called <a href="https://www.goodreads.com/book/show/75564756-k-wai"><u>"Kāwai: For Such a Time As This"</u></a> by Monty Soutar. 
 
         </div>
  
@@ -25,16 +25,25 @@ I'm also a part of a book club, with my brother and two cousins, which has been 
     <div class="carousel-item active">
     <div class="container">
       <img class="d-block w-100" src="imgs\profile_lecture.jpg" style="height:400px !important;" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+    <p>University of Auckland - 2022</p>
+  </div>
     </div>
     </div>
     <div class="carousel-item">
     <div class="container">
       <img class="d-block w-100" src="imgs\profile_hiking.jpg" style="height:400px !important;" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+    <p>Family hike on the Kepler track</p>
+  </div>
     </div>
     </div>
     <div class="carousel-item">
     <div class="container">
       <img class="d-block w-100" src="imgs\profile_auckland.jpg" style="height:400px !important;" alt="Third slide">
+       <div class="carousel-caption d-none d-md-block">
+    <p>Auckland city harbour</p>
+  </div>
     </div>
   </div>
   <!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
